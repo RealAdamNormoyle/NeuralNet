@@ -1,0 +1,8 @@
+E:\PROJECTS\NeuralNet\NeuralNet\NeuralNet\bin\Debug\netstandard2.0\NeuralNet.deps.json
+E:\PROJECTS\NeuralNet\NeuralNet\NeuralNet\bin\Debug\netstandard2.0\NeuralNet.dll
+E:\PROJECTS\NeuralNet\NeuralNet\NeuralNet\bin\Debug\netstandard2.0\NeuralNet.pdb
+E:\PROJECTS\NeuralNet\NeuralNet\NeuralNet\obj\Debug\netstandard2.0\NeuralNet.csprojAssemblyReference.cache
+E:\PROJECTS\NeuralNet\NeuralNet\NeuralNet\obj\Debug\netstandard2.0\NeuralNet.AssemblyInfoInputs.cache
+E:\PROJECTS\NeuralNet\NeuralNet\NeuralNet\obj\Debug\netstandard2.0\NeuralNet.AssemblyInfo.cs
+E:\PROJECTS\NeuralNet\NeuralNet\NeuralNet\obj\Debug\netstandard2.0\NeuralNet.dll
+E:\PROJECTS\NeuralNet\NeuralNet\NeuralNet\obj\Debug\netstandard2.0\NeuralNet.pdb
